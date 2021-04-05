@@ -1,0 +1,214 @@
+{
+    "asd": [
+        [
+            {
+                "personaje": "Enugenio Mendoza",
+                "tiempo": "0:18:34",
+                "dificultad": "Normal",
+                "Biblioteca": 2,
+                "Laboratorio SL001": 3,
+                "Plaza Rectorado": 8,
+                "Pasillo Laboratorios ": 11,
+                "Cuarto de Servidores ": 8
+            }
+        ],
+        [
+            {
+                "personaje": "El Chavista",
+                "tiempo": "0:05:32",
+                "dificultad": "Dificil",
+                "Biblioteca": 3,
+                "Laboratorio SL001": 4,
+                "Plaza Rectorado": 6,
+                "Pasillo Laboratorios ": 1,
+                "Cuarto de Servidores ": 3
+            }
+        ]
+    ],
+    "qwe": [
+        [
+            {
+                "personaje": "Enugenio Mendoza",
+                "tiempo": "0:12:29",
+                "dificultad": "Normal",
+                "Biblioteca": 6,
+                "Laboratorio SL001": 5,
+                "Plaza Rectorado": 17,
+                "Pasillo Laboratorios ": 20,
+                "Cuarto de Servidores ": 11
+            }
+        ],
+        [
+            {
+                "personaje": "Enugenio Mendoza",
+                "tiempo": "0:03:04",
+                "dificultad": "Normal",
+                "Biblioteca": 7,
+                "Laboratorio SL001": 1,
+                "Plaza Rectorado": 3,
+                "Pasillo Laboratorios ": 8,
+                "Cuarto de Servidores ": 10
+            }
+        ],
+        [
+            {
+                "personaje": "Enugenio Mendoza",
+                "tiempo": "0:29:23",
+                "dificultad": "Normal",
+                "Biblioteca": 3,
+                "Laboratorio SL001": 1,
+                "Plaza Rectorado": 2,
+                "Pasillo Laboratorios ": 3,
+                "Cuarto de Servidores ": 6
+            }
+        ],
+        [
+            {
+                "personaje": "Enugenio Mendoza",
+                "tiempo": "0:28:48",
+                "dificultad": "Normal",
+                "Biblioteca": 4,
+                "Laboratorio SL001": 4,
+                "Plaza Rectorado": "0",
+                "Pasillo Laboratorios ": 5,
+                "Cuarto de Servidores ": 18
+            }
+        ],
+        [
+            {
+                "personaje": "Enugenio Mendoza",
+                "tiempo": "0:46:22",
+                "dificultad": "Facil",
+                "Biblioteca": 6,
+                "Laboratorio SL001": 1,
+                "Plaza Rectorado": 1,
+                "Pasillo Laboratorios ": 21,
+                "Cuarto de Servidores ": 2
+            }
+        ],
+        [
+            {
+                "personaje": "LeopoldoPreso",
+                "tiempo": "0:34:35",
+                "dificultad": "Normal",
+                "Biblioteca": 1,
+                "Laboratorio SL001": 1,
+                "Plaza Rectorado": "0",
+                "Pasillo Laboratorios ": 3,
+                "Cuarto de Servidores ": 2
+            }
+        ],
+        [
+            {
+                "personaje": "Enugenio Mendoza",
+                "tiempo": "0:34:40",
+                "dificultad": "Normal",
+                "Biblioteca": 1,
+                "Laboratorio SL001": 1,
+                "Plaza Rectorado": "0",
+                "Pasillo Laboratorios ": 2,
+                "Cuarto de Servidores ": 2
+            }
+        ],
+        [
+            {
+                "personaje": "El Chavista",
+                "tiempo": "0:18:44",
+                "dificultad": "Facil",
+                "Biblioteca": 49,
+                "Laboratorio SL001": 13,
+                "Plaza Rectorado": 47,
+                "Pasillo Laboratorios ": 9,
+                "Cuarto de Servidores ": 8
+            }
+        ]
+    ],
+    "zxc": [
+        [
+            {
+                "personaje": "Enugenio Mendoza",
+                "tiempo": "0:09:13",
+                "dificultad": "Normal",
+                "Biblioteca": 11,
+                "Laboratorio SL001": 12,
+                "Plaza Rectorado": 13,
+                "Pasillo Laboratorios ": 1,
+                "Cuarto de Servidores ": 4
+            }
+        ]
+    ],
+    "orlando": [
+        [
+            {
+                "personaje": "Enugenio Mendoza",
+                "tiempo": "0:00:00",
+                "dificultad": "Dificil",
+                "Biblioteca": 1,
+                "Laboratorio SL001": 2,
+                "Plaza Rectorado": 3,
+                "Pasillo Laboratorios ": 4,
+                "Cuarto de Servidores ": 5
+            }
+        ],
+        [
+            {
+                "personaje": "Enugenio Mendoza",
+                "tiempo": "",
+                "dificultad": "Dificil",
+                "Biblioteca": 1,
+                "Laboratorio SL001": "0",
+                "Plaza Rectorado": "0",
+                "Pasillo Laboratorios ": "0",
+                "Cuarto de Servidores ": "0"
+            }
+        ],
+        [
+            {
+                "personaje": "Enugenio Mendoza",
+                "tiempo": "",
+                "dificultad": "Dificil",
+                "Biblioteca": 2,
+                "Laboratorio SL001": "0",
+                "Plaza Rectorado": "0",
+                "Pasillo Laboratorios ": "0",
+                "Cuarto de Servidores ": "0"
+            }
+        ],
+        [
+            {
+                "personaje": "Enugenio Mendoza",
+                "tiempo": "",
+                "dificultad": "Dificil",
+                "Biblioteca": 3,
+                "Laboratorio SL001": "0",
+                "Plaza Rectorado": "0",
+                "Pasillo Laboratorios ": "0",
+                "Cuarto de Servidores ": "0"
+            }
+        ],
+        [
+            {
+                "personaje": "Enugenio Mendoza",
+                "tiempo": "",
+                "dificultad": "Dificil",
+                "Biblioteca": 4,
+                "Laboratorio SL001": "0",
+                "Plaza Rectorado": "0",
+                "Pasillo Laboratorios ": "0",
+                "Cuarto de Servidores ": "0"
+            }
+        ],
+        [
+            {
+                "personaje": "Enugenio Mendoza",
+                "tiempo": "",
+                "dificultad": "Dificil",
+                "Biblioteca": 5,
+                "Laboratorio SL001": "0",
+                "Plaza Rectorado": "0",
+                "Pasillo Laboratorios ": "0",
+                "Cuarto de Servidores ": "0"
+            }
+        ]
+    ]
+}
