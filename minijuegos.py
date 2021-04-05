@@ -1,5 +1,3 @@
-from typing import Final, KeysView
-from cuartos import cuartos
 from os import error
 import random
 import json
@@ -8,11 +6,8 @@ from scipy.misc import derivative
 from sympy import *
 from sympy import sympify
 from sympy.parsing.sympy_parser import parse_expr
-import math
 from fractions import Fraction
 import numpy as np
-import pygame
-from jugadores import Jugador
 import temporizador
 import time
 
