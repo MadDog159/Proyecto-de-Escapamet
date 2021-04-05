@@ -1,0 +1,64 @@
+{
+    "usuarios": [
+        {
+            "nombre": "qwe",
+            "edad": "21",
+            "password": "123"
+        },
+        {
+            "nombre": "asd",
+            "edad": "34",
+            "password": "123"
+        },
+        {
+            "nombre": "zxc",
+            "edad": "21",
+            "password": "123"
+        },
+        {
+            "nombre": "1",
+            "edad": "",
+            "password": "q"
+        },
+        {
+            "nombre": "yui",
+            "edad": "21",
+            "password": "`123"
+        },
+        {
+            "nombre": "cvb",
+            "edad": "21",
+            "password": "123"
+        },
+        {
+            "nombre": "ttt",
+            "edad": "23",
+            "password": "234"
+        },
+        {
+            "nombre": "f",
+            "edad": "21",
+            "password": "123"
+        },
+        {
+            "nombre": "a",
+            "edad": "21",
+            "password": "123"
+        },
+        {
+            "nombre": "orlando",
+            "edad": "34",
+            "password": "123"
+        },
+        {
+            "nombre": "3",
+            "edad": "",
+            "password": ""
+        },
+        {
+            "nombre": "gabriel",
+            "edad": "21",
+            "password": "123"
+        }
+    ]
+}
