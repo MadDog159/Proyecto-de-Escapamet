@@ -1,0 +1,109 @@
+cd C:\Users\OUSEC\Documents\practicas python\proyecto
+python proyecto1.py
+
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/NOMBRE_USUARIO/NOMBRE_PROYECTO.git
+git push -u origin master
+
+
+
+
+              "Laboratorio SL001"
+
+
+
+           "center"  
+
+"answer_1": "Pilar",
+"answer_2": "Ardila",
+"answer_3": "Scharifker"
+
+"answer_1": "Bello",
+"answer_2": "Marcano",
+"answer_3": "DaGama"
+
+"answer_1": "Boada",
+"answer_2": "Llorante",
+"answer_3": "DaGama"
+
+           "left" 
+
+No Se
+
+           "right"
+
+"vela",
+"bombillo",
+"platano"
+
+
+                "Biblioteca"
+
+
+           "center"
+
+"Metromix"
+"Piscina"
+"Rectorado"
+
+           "left"
+
+-1/2
+
+-1/5
+
+39/10
+
+          "right"
+
+Si te graduas pisas el samán
+
+
+            "Plaza Rectorado"
+
+
+     "center"
+
+67
+41
+
+      "left"
+"22 de octubre"
+
+"1970"
+
+"Eugenio Mendoza"
+
+
+          
+            "Pasillo Laboratorios "
+(a and b and not a)
+"False"
+
+(a and b and a)
+"True"
+
+           
+             "Cuarto de Servidores "
+
+"left"
+
+"sarten",
+"paleta",
+"olla",
+"vaso",
+"hornilla"
+
+"poceta",
+"cepillo",
+"afeitadora",
+"regadera",
+"grifo"
+
+"zumba",
+"salsa",
+"flamengo",
+"tango",
+"perreo"

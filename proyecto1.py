@@ -12,9 +12,10 @@ import sys
 import temporizador
 import requests
 from cuartos import cuartos
-import datetime
 import pygame
-
+import matplotlib
+import matplotlib.pyplot as plt
+import numpy as np
 pygame.init()
 pygame.mixer.init()
 sonido_fondo = pygame.mixer.Sound("TheFatRat-Xenogenesis.wav")
@@ -897,6 +898,8 @@ def Records_juegos():
                     if tamano1 >5:
                         break
 
+                
+                
 
                 continuar = desicion_SN("\nDesea seguir viendo los estadisticos: ")
                 if not continuar:
@@ -948,6 +951,7 @@ def Records_juegos():
                     #print("Cantidad de veces que los jugadores vitan PLAZA RECTORADO:      ",contador_Plaza_Rectorado)
                     #print("Cantidad de veces que los jugadores vitan PASILLO LABORATORIOS: ",contador_Pasillo_Laboratorios)
                     #print("Cantidad de veces que los jugadores vitan CUARTO DE SERVIDORES: ",contador_Cuarto_de_Servidores)
+                
             continuar = desicion_SN("\nDesea seguir viendo los estadisticos: ")
             if not continuar:
                 ciclo = False
